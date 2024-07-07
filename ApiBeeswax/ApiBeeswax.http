@@ -1,0 +1,7 @@
+@ApiBeeswax_HostAddress = http://localhost:5210
+
+GET {{ApiBeeswax_HostAddress}}/weatherforecast/
+Accept: application/json
+
+
+###
